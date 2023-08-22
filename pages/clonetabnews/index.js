@@ -15,7 +15,8 @@ function Home() {
       </p>
       <p>o projeto ainda está em andamento...</p>
       <p>
-        por enquanto já foi feito o ambiente de desenvolvimento, o host, deploy.
+        por enquanto já foi feito o ambiente de desenvolvimento, o host e o
+        deploy.
       </p>
     </>
   );
